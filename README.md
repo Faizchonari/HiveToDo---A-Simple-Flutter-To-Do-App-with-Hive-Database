@@ -1,15 +1,20 @@
-# flutter_application_1
+# Flutter Todo App with Hive Database
 
-A new Flutter project.
+This is a simple todo app built using Flutter framework and Hive database. The app allows you to create, edit, and delete tasks. It also lets you mark completed tasks as done and filter tasks based on their status. The app uses Hive as the database to store the tasks locally on your device.
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/71751169/232280030-10730362-892e-4a05-b429-a4515756ac3b.png" width=270 height=480></td>
+    <td><img src=" https://user-images.githubusercontent.com/71751169/232280007-b2c371a5-d8e1-478b-8fb9-aeeb6db1d317.png" width=270 height=480></td> 
+  </tr>
+ </table>
+## Features
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add new tasks with a title and description
+- Edit existing tasks
+- Delete tasks
+- Mark completed tasks as done
+- Filter tasks based on their status (done or not done)
+- Data is stored locally using Hive database
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
